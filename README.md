@@ -28,6 +28,11 @@ and get one step closer to using all of the lost data available!
 - I use the Compute Canada server
 - I run either in my bash terminal or the VSCode terminal
 
+#TUTORIALS
+- Carpentry has a great follow along for learning the basics
+  - Intro to Shell: http://www.hpc-carpentry.org/hpc-shell/
+  - Genomics: https://datacarpentry.org/lessons/#genomics-workshop
+
 #CONTACT ME!
 - Science can be isolating - so let's take advantage of GitHub and avoid that!
 - I love to collab! Hit me up with everything from tips or questions about my work or anything you want to share! Everyone loves to talk about themselves and I am all ears
